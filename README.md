@@ -1,6 +1,6 @@
 # This is my first project in Python
 
-Interactive calculator with this features for two numbers:
+Interactive calculator for two numbers with this features:
 1. Sum
 2. Subtraction
 3. Multiplication
