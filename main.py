@@ -28,14 +28,14 @@ def calculator():
                 num2 = getNumber("Insert second number: ")
 
                 if choice == '1':
-                    print(f"The sum is: {num1 + num2}")
+                    print(f"The sum is: {num1 + num2}\n")
                 elif choice == '2':
-                    print(f"The subtraction is: {num1 - num2}")
+                    print(f"The subtraction is: {num1 - num2}\n")
                 elif choice == '3':
-                    print(f"The multiplication is: {num1 * num2}")
+                    print(f"The multiplication is: {num1 * num2}\n")
                 elif choice == '4':
                     if num2 != 0:
-                        print(f"The division is: {num1 / num2}")
+                        print(f"The division is: {num1 / num2}\n")
                     else:
                         print("Division by zero, error!")
             else:
